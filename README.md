@@ -10,7 +10,7 @@
 - 🏢 I'm a beginner Flutter Developer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 I’m currently learning firebase.
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/menna-abdlfattah/
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 
 
