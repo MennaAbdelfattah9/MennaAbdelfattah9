@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning firebase.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 
- ### Languages and Tools 🛠 :
+ ###  🛠Languages and Tools:
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,7 +33,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
- ### 🔗Contact Me
+ ### 🔗Contact Me:
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MennaAbdlfattah?mibextid=b06tZ0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](https://mennaabdlfattah9@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
